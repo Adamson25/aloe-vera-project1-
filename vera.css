@@ -1,0 +1,213 @@
+body{
+    background-color: rgb(1, 123, 1);
+    background-image: url("./back.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+  }
+  
+  
+  
+  
+  nav a{
+      
+      color: green;
+      font-size: 18px;
+      text-decoration: none;
+      margin-left: 30px;
+      
+  }
+  
+  nav a:hover{
+      background-color: black;
+      
+  }
+  
+  nav {
+      text-align:right;
+      margin-right: 70px;
+  }
+  
+  h2{
+      color: rgb(12, 153, 12);
+      margin-top: -50px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      
+  }
+  
+  h3{
+      color: rgb(12, 153, 12);
+      font-size: 60px;
+      text-align: center;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin-right: 900px;
+      
+  }
+  
+  h4{
+      color:rgb(15, 216, 15) ;
+      font-size: 15px;
+      text-align: center;
+      margin-right: 900px;
+      font-family: Arial, Helvetica, sans-serif;
+      margin-top: -30px;
+      text-transform:capitalize ;
+      /* text-shadow: 2px black; */
+     
+  }
+  
+  #btn{
+      border: 2px solid rgb(12, 153, 12);
+      background-color: rgb(255, 255, 255);
+      width: 100px;
+      color: rgb(0, 0, 0);
+      height: 30px;
+      padding-top: 7px;
+      text-align: center;
+      border-radius: 5px;
+      margin-left: 120px;
+      
+     
+      
+     }
+  
+     #btn:hover{
+     background-color:rgb(12, 153, 12);
+     }
+  
+     img{
+      width: 100px;
+      height: 200px;
+      margin-left: 600px;
+      
+     }
+
+
+h5{
+        margin-top: -350px;
+        margin-left: 100px;
+    }
+
+    h6{
+        text-align: center;
+        color: rgb(12, 153, 12);
+        font-size: 30px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-bottom: 50px;
+    }
+
+    .p1{
+        text-align: center;
+        font-size: 15px;
+        color: rgb(6, 94, 6);
+        font-family: 'Times New Roman', Times, serif;
+        margin-left: 300px;
+        margin-right: 300px;
+        margin-bottom: 40px;
+    }
+
+    .container img{
+        width: 150px;
+        border-radius: 20px;
+        margin-left: 40px;
+    }
+    .container{
+        margin-left: 300px;
+    }
+    
+
+    .text1{
+        color:green ;
+        font-size: 17px;
+        font-family:initial ;
+        text-align: left;   
+        margin-left: 600px; 
+        margin-top: 80px;  
+    }
+
+    .container1 img{
+        border-radius: 25px;
+        width: 200px;
+        height: 200px;
+        margin-left: 350px;
+        margin-top: -200px;
+    }
+
+    .text2{
+        color:green ;
+        font-size: 17px;
+        font-family:initial ;
+        text-align: right;   
+        margin-right: 670px; 
+        margin-top: 120px;  
+    }
+
+    .container2 img{
+        border-radius: 500px;
+        width: 200px;
+        height: 200px;
+        margin-right: 100px;
+        margin-top: -300px;
+        padding-bottom: 100px;
+       
+        
+    }
+
+    .line{
+        color: green;
+        opacity: 0.5;
+        text-align: center;
+    }
+
+    .text3{
+        
+        text-align: center;
+        font-size: 15px;
+    }
+
+    
+    .text4{
+        text-align: center;
+        font-size: 15px;
+    }
+
+
+    .Konga{
+        font-size: 30px;
+        font-family: 'Times New Roman', Times, serif;
+        padding-top: 45px;
+        color: white;
+        margin-left: 20px;
+    }
+
+    .footer1{
+        color: rgb(255, 255, 255);
+        text-align: left;
+        margin-left: 20px;
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        padding-top: 20px;
+    }
+
+    .footer2{
+        text-align: center;
+        margin-top: -150px;
+        margin-left: 75%;
+        padding-top: 7px;
+        font-size: 15px;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+       padding-left: 5px;
+    }
+
+   
+
+   
+
+
+
+
+
+
+   

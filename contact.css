@@ -1,0 +1,83 @@
+body{
+    background-image: url("./back.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    
+  }
+
+.map1{
+    color: green;
+    font-size: 25px;
+
+}
+
+
+
+nav a{
+      
+    color: green;
+    font-size: 18px;
+    text-decoration: none;
+    margin-left: 30px;
+  
+  
+    
+  }
+  
+  nav a:hover{
+    background-color: black;
+    
+  }
+  
+  nav {
+    text-align:right;
+    margin-right: 70px;
+  }
+  
+  h2{
+    color: rgb(12, 153, 12);
+    margin-top: -50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+  }
+
+.text{
+    font-size: 30px;
+    text-align: center;
+    color: green;
+}
+
+
+.Konga{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 45px;
+    color: white;
+    margin-left: 20px;
+}
+
+.footer1{
+    color: rgb(255, 255, 255);
+    text-align: left;
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 20px;
+}
+
+.footer2{
+    text-align: center;
+    margin-top: -150px;
+    margin-left: 75%;
+    padding-top: 7px;
+    font-size: 15px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+   padding-left: 5px;
+}
+
+
+  
+  

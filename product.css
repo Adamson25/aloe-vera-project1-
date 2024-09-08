@@ -1,0 +1,124 @@
+body{
+  background-image: url("./back.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+
+nav a{
+      
+  color: green;
+  font-size: 18px;
+  text-decoration: none;
+  margin-left: 30px;
+
+
+  
+}
+
+nav a:hover{
+  background-color: black;
+  
+}
+
+nav {
+  text-align:right;
+  margin-right: 70px;
+}
+
+h2{
+  color: rgb(12, 153, 12);
+  margin-top: -50px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+
+
+ body {
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}
+
+
+.-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.aloe {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  width: 300px;
+}
+
+.aloe img {
+  max-width: 100%;
+  height: 250px;
+  border-radius: 10px;
+}
+
+.aloe h2 {
+  font-size: 20px;
+  margin: 15px 0 10px;
+}
+
+.aloe p {
+  font-size: 18px;
+  color: #333;
+}
+
+.shop {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 15px;
+  background-color: #111;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.shop:hover {
+  background-color: green;
+}
+
+
+.Konga{
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  padding-top: 45px;
+  color: white;
+  margin-left: 20px;
+}
+
+.footer1{
+  color: rgb(255, 255, 255);
+  text-align: left;
+  margin-left: 20px;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  padding-top: 20px;
+}
+
+.footer2{
+  text-align: center;
+  margin-top: -150px;
+  margin-left: 75%;
+  padding-top: 7px;
+  font-size: 15px;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+ padding-left: 5px;
+}
+
+
+
+
